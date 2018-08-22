@@ -4,7 +4,8 @@ two
 
 three
 
-four 
+four
+
 
 five 
 Createing a new branch is quick and simple
