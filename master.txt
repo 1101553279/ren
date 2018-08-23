@@ -1,2 +1,3 @@
 add master.txt"
+second view
 
