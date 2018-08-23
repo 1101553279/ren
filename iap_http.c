@@ -263,5 +263,3 @@ static err_t http_recv(void *arg, struct tcp_pcb *pcb,  struct pbuf *p, err_t er
   
   return ERR_OK;
 }
-
-
