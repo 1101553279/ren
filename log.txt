@@ -1,0 +1,7 @@
+git log -Ssymbol
+git log --grep=<pattern>
+git log -- path
+git log --pretty=...
+git log -p
+git log --stat
+git log --graph
