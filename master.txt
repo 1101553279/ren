@@ -1,5 +1,0 @@
-add master.txt"
-second view
-tren
-
-master

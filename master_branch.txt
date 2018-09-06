@@ -1,6 +1,0 @@
-add master branch
-view
-second view
-third view
-
-
